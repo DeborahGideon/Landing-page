@@ -1,0 +1,128 @@
+body{
+    font-family: poppins;
+    background-color: whitesmoke;
+}
+
+p{
+    text-align: justify;
+}
+
+.my-image img{
+ border-radius: 500px;
+  float: left;
+  height: 250px;
+  width: 200px;
+  padding-right: 12px;
+  padding-left: 12px;
+  padding-top: 0px;
+}
+
+.first-title h1{
+    padding-top: 100px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    color: rebeccapurple;
+}
+.first-title h4{
+    margin-top: -4px;
+    color: rgb(114, 113, 113);
+
+}
+
+.others{
+    padding-left: 24px;
+}
+.others h4{
+    color: rgb(114, 113, 113);
+}
+
+.about-part{
+    margin-top: 120px;
+   
+}
+.about-part h3{
+    padding-bottom: 0px;
+    color: rebeccapurple;
+}
+.about-part p{
+    margin-top: -18px;
+}
+.projects{
+    padding-top: 10px;
+}
+.projects h3{
+    color: rebeccapurple;
+}
+.first-project h4{
+    padding-bottom: 0px;
+}
+.first-project p{
+    margin-top: -18px;
+    margin-bottom: 4px;  
+}
+
+.second-project{
+    margin-top: 40px;
+}
+
+.second-project h4{
+    padding-bottom: 0px;   
+}
+.second-project p{
+    margin-top: -18px;  
+    margin-bottom: 4px;  
+}
+
+.third-project {
+    margin-top: 40px; 
+}
+
+.third-project h4{
+    padding-bottom: 0px;   
+}
+.third-project p{
+    margin-top: -18px;
+    margin-bottom: 4px;    
+}
+.hire-me h4 {
+    color: rebeccapurple;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+button {
+    border-radius: 4px;
+    padding: 5px;
+    background-color: rgb(125, 85, 165);
+    border: none;
+    width: 120px;
+    
+}
+
+button:hover{
+    background-color: rgb(144, 131, 157);
+}
+
+button a{
+    color: white;
+    font-family: poppins;
+    text-decoration: none;
+    appearance: none;
+}
+
+button a:hover {
+    color: rgb(64, 63, 63);
+}
+
+
+
+.images a{
+    align-content: center;
+    text-decoration: none;
+    padding-right: 10px;
+}
+
+.in{
+    margin-left: 150px;
+    margin-top: -40px;
+}
